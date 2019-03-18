@@ -1,0 +1,25 @@
+.Person{
+    width: 50%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+    border:1px solid black;
+    padding:10px;
+    text-align: center
+}
+
+Button {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid black;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-align: center
+}
