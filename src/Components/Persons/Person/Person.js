@@ -9,7 +9,7 @@ const Person = (props)=>{
             <p>{props.age}</p>
             <input onChange={props.changed}/>
         </div>
-    )
+    ) 
 }
 
 export default Person;
